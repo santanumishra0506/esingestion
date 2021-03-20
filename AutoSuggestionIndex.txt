@@ -1,0 +1,35 @@
+PUT productsuggestion
+{
+  "mappings": {
+    "properties": {
+      "suggest": {
+        "type": "completion"
+      },
+      "title": {
+        "type": "keyword"
+      }
+    }
+  }
+}
+
+
+PUT productsuggestion/_doc/5?refresh
+{
+  "suggest": 
+    {
+      "input": "dryer full",
+      "weight": 10
+    }
+}
+
+POST productsuggestion/_search?pretty
+{
+  "suggest": {
+    "product-suggest": {
+      "prefix": "dr",        
+      "completion": {         
+          "field": "suggest"  
+      }
+    }
+  }
+}
