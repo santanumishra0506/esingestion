@@ -1,6 +1,30 @@
-{"name":"Microwave","price":"50","in_stock":"5","id":"101"}
+{"name":"Microwave","price":"50","in_stock":"4","id":"101"}
 {"name":"DishWasher","price":"100","in_stock":"4","id":"102"}
 {"name":"Mixer","price":"25","in_stock":"4","id":"103"}
 {"name":"Fridge","price":"75","in_stock":"4","id":"104"}
 {"name":"Washer","price":"125","in_stock":"4","id":"105"}
 {"name":"Dryer","price":"75","in_stock":"4","id":"106"}
+{"name":"mobile","price":"1000","in_stock":"4","id":"107"}
+{"name":"ipad","price":"275","in_stock":"4","id":"108"}
+{"name":"macbook","price":"2075","in_stock":"4","id":"109"}
+{"name":"airpod","price":"375","in_stock":"4","id":"110"}
+{"name":"headphone","price":"175","in_stock":"4","id":"111"}
+{"name":"earphone","price":"275","in_stock":"4","id":"112"}
+{"name":"charger","price":"35","in_stock":"4","id":"113"}
+{"name":"tv","price":"1275","in_stock":"4","id":"114"}
+{"name":"monitor","price":"175","in_stock":"4","id":"115"}
+{"name":"cpu","price":"575","in_stock":"4","id":"116"}
+{"name":"food processor","price":"75","in_stock":"4","id":"117"}
+{"name":"juicer","price":"15","in_stock":"4","id":"118"}
+{"name":"chopper","price":"15","in_stock":"4","id":"119"}
+{"name":"mincer","price":"35","in_stock":"4","id":"120"}
+{"name":"fan","price":"25","in_stock":"4","id":"121"}
+{"name":"heater","price":"35","in_stock":"4","id":"122"}
+{"name":"bulbs","price":"35","in_stock":"4","id":"123"}
+{"name":"oven","price":"275","in_stock":"4","id":"124"}
+{"name":"humidifier","price":"45","in_stock":"4","id":"125"}
+{"name":"hair dryer","price":"25","in_stock":"4","id":"126"}
+{"name":"lamps","price":"25","in_stock":"4","id":"127"}
+{"name":"toaster","price":"15","in_stock":"4","id":"128"}
+{"name":"griller","price":"155","in_stock":"4","id":"129"}
+{"name":"camera","price":"325","in_stock":"4","id":"130"}
